@@ -115,6 +115,7 @@ const contactConfig = {
 const socialprofils = {
     github: "https://github.com/ryanpfister",
     linkedin: "https://www.linkedin.com/in/rdpfister/",
+    instagram: "https://www.instagram.com/rdpfister/",
 };
 export {
     meta,
