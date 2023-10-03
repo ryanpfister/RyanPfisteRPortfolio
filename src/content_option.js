@@ -116,6 +116,8 @@ const socialprofils = {
     github: "https://github.com/ryanpfister",
     linkedin: "https://www.linkedin.com/in/rdpfister/",
     instagram: "https://www.instagram.com/rdpfister/",
+    facebook: "https://www.facebook.com/ryan.pfister.98/",
+    email: "mailto:ryan.pfister@rdpconsulting.org",
 };
 export {
     meta,
